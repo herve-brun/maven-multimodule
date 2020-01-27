@@ -25,7 +25,6 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
     <!-- <aggregate.report.dir>tests/target/site/jacoco-aggregate/jacoco.xml</aggregate.report.dir> -->
-    <sonar.projectKey>herve-brun_maven-multimodule</sonar.projectKey>
     <sonar.organization>herve-brun</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.login>be5b1301f4504f24b530c4ab53fed740238b4e02</sonar.login>
