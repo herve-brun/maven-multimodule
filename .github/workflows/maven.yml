@@ -14,4 +14,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Maven
-      run: mvn -B install eu.stamp-project:pitmp-maven-plugin:run sonar:sonar --file pom.xml
+      run: mvn -B -ntp install eu.stamp-project:pitmp-maven-plugin:run sonar:sonar --file pom.xml
