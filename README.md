@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/herve-brun/maven-multimodule) 
+
 # Multi-module Apache Maven example
 
 This project imports JaCoCo's aggregate XML report to be able to report coverage across modules as well as unit
