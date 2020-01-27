@@ -27,7 +27,7 @@
     <!-- <aggregate.report.dir>tests/target/site/jacoco-aggregate/jacoco.xml</aggregate.report.dir> -->
     <sonar.organization>herve-brun</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>be5b1301f4504f24b530c4ab53fed740238b4e02</sonar.login>
+    <sonar.login>f778f8767b86a9b4daf09cb061b199edeff9379b</sonar.login>
   </properties>
 
   <dependencies>
