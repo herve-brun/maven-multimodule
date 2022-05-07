@@ -12,6 +12,7 @@ jobs:
     - name: Set up JDK 1.8
       uses: actions/setup-java@v3
       with:
+        distribution: 'temurin'# Eclipse Temurin - https://github.com/marketplace/actions/setup-java-jdk#supported-distributions
         java-version: '11'
     - name: Build with Maven
       run: mvn -B -ntp install eu.stamp-project:pitmp-maven-plugin:run sonar:sonar --file pom.xml
